@@ -5,7 +5,7 @@ const Footer = () => {
           <p className="mb-2">&copy; {new Date().getFullYear()} Aditya H. All rights reserved.</p>
           <div className="flex justify-center space-x-4">
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"

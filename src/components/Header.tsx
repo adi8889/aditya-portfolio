@@ -23,7 +23,7 @@ const Header: React.FC = () => {
       <div className="flex-1 mt-10 md:mt-0 flex justify-center">
         <div className="w-72 h-72 rounded-full overflow-hidden border-4 border-white shadow-lg">
           <img
-            src="./public/port.jpg"
+            src="./port.jpg"
             alt="Aditya H"
             className="w-full h-full object-cover grayscale hover:grayscale-0 transition duration-300"
           />
